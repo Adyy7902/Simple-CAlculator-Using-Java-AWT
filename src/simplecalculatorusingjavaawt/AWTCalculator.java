@@ -54,7 +54,7 @@ bmult=new Button("*");
   bmult.setBounds(260,200,50,50);
 bdiv=new Button("/");
   bdiv.setBounds(260,130,50,50);
-bmod=new Button("%");
+bmod=new Button("MOD");
   bmod.setBounds(190,130,50,50);
 bcalc=new Button("=");
   bcalc.setBounds(245,410,65,50);
